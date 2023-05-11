@@ -4,6 +4,7 @@
   "description": "blog of xlxu team",
   "license": "MIT",
   "type": "module",
+  "packageManager": "pnpm@8.4.0",
   "scripts": {
     "build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
