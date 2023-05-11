@@ -7,12 +7,12 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "xlxu lab",
+      title: "Xlxu lab",
       description: "xlxu lab",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "xlxu lab",
+      title: "Xlxu lab",
       description: "许小龙的实验室",
     },
   },
