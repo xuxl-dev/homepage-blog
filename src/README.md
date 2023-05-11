@@ -2,15 +2,15 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
-heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+title: Lab
+heroImage: http://via.placeholder.com/640x640
+heroText: Xlxu Lab
+tagline: Discover, Innovate, Excel.
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
-    desc: project detailed description
+    name: latest research
+    desc: Detailed description our latest research
     link: https://your.project.link
 
   - icon: link
@@ -24,8 +24,8 @@ projects:
     link: https://link.to.your.book
 
   - icon: article
-    name: article name
-    desc: Detailed description of the article
+    name: Papers
+    desc: recent published papers
     link: https://link.to.your.article
 
   - icon: friend
