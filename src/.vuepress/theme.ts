@@ -117,8 +117,8 @@ export default hopeTheme({
     blog: true,
 
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
-      provider: "Giscus",
+      provider: "Artalk",
+      server: "/artalk"
     },
 
     // all features are enabled for demo, only preserve features you need here

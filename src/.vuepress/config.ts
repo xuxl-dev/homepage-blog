@@ -13,7 +13,7 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "Xlxu lab",
-      description: "许小龙的实验室",
+      description: "xlxu 的实验室",
     },
   },
 
@@ -21,4 +21,5 @@ export default defineUserConfig({
 
   // Enable it with pwa
   // shouldPrefetch: false,
+
 });
